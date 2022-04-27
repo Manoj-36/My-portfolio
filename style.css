@@ -1,6 +1,6 @@
 :root {
   --font: "Inter", sans-serif;
-  --size-quote: 95px;
+  --size-quote: 60px;
   --dark-background: #03001e;
   --yellow: #feac5e;
   --purple: #c779d0;
@@ -4145,7 +4145,7 @@ div.moving-up-projects {
 }
 
 div.moving-project-one {
-  margin: 6rem 0 0 0;
+  margin: 1rem 0 0 0;
 }
 
 div.line-horizontal-project {
